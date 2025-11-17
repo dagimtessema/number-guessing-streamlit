@@ -27,6 +27,6 @@ A simple Python and streamlit-based number guessing game that challenges the use
 ##  🛠️ Getting Started
 Prerequisites
 Make sure you have Python and streamlit installed. You can check by running:
-'''bash
+```bash
 python --version
 streamlit --version
