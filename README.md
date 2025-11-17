@@ -1,7 +1,7 @@
-#H1 🎯 Number Guessing Game with streamlit and ML components
+#  🎯 Number Guessing Game with streamlit and ML components
 A simple Python and streamlit-based number guessing game that challenges the user to guess a randomly generated number between 1 and 200 with difficulty selection with improvement analysis and feedback. It is simple and interative to run through the streamlit platform and a local browser. This project is great for beginners learning Python and Machine learning fundamentals.
 
-#H2 🚀 How It Works
+##  🚀 How It Works
 . The program generates a random number between 1 and 200 based on user's difficulty selection between "Easy", "Medium" and "Hard".
 . The user is prompted to guess the number.
 . If the guess is incorrect, the game continues using a loop until the correct number is guessed.
@@ -11,7 +11,7 @@ A simple Python and streamlit-based number guessing game that challenges the use
 . Once the correct number is guessed, a final strategy analysis is presented.
 . Sidebar sections with attempts, guess history and game tips are displayed on the browser.
 
-#H2 🧠 Concepts Used
+##  🧠 Concepts Used
 . random module
 . pandas
 . numpy
@@ -24,9 +24,9 @@ A simple Python and streamlit-based number guessing game that challenges the use
 . Conditional logic
 . Simple Machine Learning
 
-#H2 🛠️ Getting Started
+##  🛠️ Getting Started
 Prerequisites
 Make sure you have Python and streamlit installed. You can check by running:
->blockquote
+> blockquote
 python --version
 streamlit --version
